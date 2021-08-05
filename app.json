@@ -1,5 +1,5 @@
 {
-    "name": "Eunha ",
+    "name": "Eunha Mirror",
     "description": "Telegram mirror bot with python",
     "logo": "https://i.imgur.com/M1RPKHo.png",
     "keywords": [
@@ -7,9 +7,9 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/vincreator/eunha",
+    "repository": "https://github.com/vincreator/Eunha-Mirror",
     "website": "",
-    "success_url": "https://github.com/vincreator/eunha/master/README.md",
+    "success_url": "https://github.com/vincreator/Eunha-Mirror/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo.",
-        "value": "https://github.com/vincreator/eunha",
+        "value": "https://github.com/vincreator/Eunha-Mirror",
         "required": true
       },
       "UPSTREAM_BRANCH": {
